@@ -4,4 +4,4 @@
 	branch = master
 [submodule "database"]
 	path = database
-	url = https://github.com/kivutar/ludo-database.git
+	url = https://github.com/bagelbyheart/ludo-database.git
